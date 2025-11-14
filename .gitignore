@@ -1,1 +1,9 @@
 ./venv
+# .gitignore
+*.pyc
+__pycache__/
+venv/
+simulation.log
+output/
+.env
+config.json
