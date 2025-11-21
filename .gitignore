@@ -7,3 +7,6 @@ simulation.log
 output/
 .env
 config.json
+project_review.md
+implementation_plan.md
+config.json
